@@ -66,12 +66,12 @@ ol{
 }
 .projectsgallery{
     box-sizing: border-box;
-    width: 25%;
+    width: 33.33%;
     float: left;
     margin-bottom: 15pt;
     border-style: inset;
-  
 }
 #contacts{
     background-color: bisque;
 }
+
