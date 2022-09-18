@@ -6,9 +6,6 @@
     height: 600px;
     background-position: center;
     background-size: cover;
-    --position: relative;
-    
-
 }
 .navbar{
     margin: 2px;
@@ -38,14 +35,27 @@
     
 }
 a:link {
-    color: green;
-  }
+    color: darkgoldenrod;
+}
 a:visited {
     color:darkgoldenrod
-  }
+}
 .content h1{
     text-align: center;
     color: teal;
     font-family:fantasy;
     font-size:30pt;
+}
+.content{
+    text-align: center;
+    font-family: Cursive;
+    font-size: 18pt;
+}
+#mycareer{
+    box-sizing: border-box;
+    width: 33.33%;
+    float:left;
+}
+ol{
+    list-style: none;
 }
