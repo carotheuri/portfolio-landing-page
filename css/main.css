@@ -69,5 +69,9 @@ ol{
     width: 25%;
     float: left;
     margin-bottom: 15pt;
+    border-style: inset;
   
+}
+#contacts{
+    background-color: bisque;
 }
