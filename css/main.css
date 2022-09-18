@@ -1,3 +1,26 @@
 @media screen and (min-width: 400px) and (max-width: 846px) {
   
 }
+.navbar{
+    margin: 2px;
+    font-family: Cursive;
+}
+.navbar h1{
+    border:3pt solid black;
+    border-radius: 30%;
+    color:teal;
+    margin :15pt;
+    margin-top: 25pt;
+    padding :4pt;
+    --padding-top:10pt;
+    font-size: 25pt;
+    float: left;
+}
+.navbar h3{
+    margin :15pt;
+    margin-top: 25pt;
+    float: right;
+    font-size: 15pt;
+    text-decoration: underline;
+    text-decoration-style:double;
+}
