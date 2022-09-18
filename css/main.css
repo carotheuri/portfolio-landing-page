@@ -56,6 +56,11 @@ a:visited {
     width: 33.33%;
     float:left;
 }
+#mycareer{
+    box-sizing: border-box;
+    width: 33.33%;
+    float:left;
+}
 ol{
     list-style: none;
 }
