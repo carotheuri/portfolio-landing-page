@@ -1,6 +1,15 @@
 @media screen and (min-width: 400px) and (max-width: 846px) {
   
 }
+.intro{
+    background-image: url("/images/personalimg.jpg");
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    --position: relative;
+    
+
+}
 .navbar{
     margin: 2px;
     font-family: Cursive;
@@ -12,7 +21,6 @@
     margin :15pt;
     margin-top: 25pt;
     padding :4pt;
-    --padding-top:10pt;
     font-size: 25pt;
     float: left;
 }
@@ -23,4 +31,9 @@
     font-size: 15pt;
     text-decoration: underline;
     text-decoration-style:double;
+    color:darkgoldenrod
+}
+.intro{
+    margin: 2px;
+    
 }
