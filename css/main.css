@@ -64,3 +64,10 @@ a:visited {
 ol{
     list-style: none;
 }
+.projectsgallery{
+    box-sizing: border-box;
+    width: 25%;
+    float: left;
+    margin-bottom: 15pt;
+  
+}
