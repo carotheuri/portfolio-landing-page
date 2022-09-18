@@ -43,3 +43,9 @@ a:link {
 a:visited {
     color:darkgoldenrod
   }
+.content h1{
+    text-align: center;
+    color: teal;
+    font-family:fantasy;
+    font-size:30pt;
+}
