@@ -70,7 +70,7 @@ ol{
     width: 33.33%;
     float: left;
     margin-bottom: 15pt;
-    border-style: inset;
+    border-style:outset;
 }
 #contacts{
     background-color: bisque;
