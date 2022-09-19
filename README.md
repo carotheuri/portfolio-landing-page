@@ -14,4 +14,4 @@ This project showcases who i am in relation to my career, projects done, educati
 ## link to live site on GitHub Pages
 https://carotheuri.github.io/portfolio-landing-page
 ## copyright and license information
-Copyright (c) {2022} **{Caroline Theuri}**
+Copyright (c) 2022 Caroline Theuri
