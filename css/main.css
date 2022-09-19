@@ -20,6 +20,7 @@
     padding :4pt;
     font-size: 25pt;
     float: left;
+    display:block;
 }
 .navbar h3{
     margin :15pt;
